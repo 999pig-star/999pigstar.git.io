@@ -32,19 +32,19 @@
 - 网页里面引用图片、样式全部正常 </pre> 
 <br>
 
-<img src="1.png" width="300" height="300">
+<img src="mistake/1.png" width="300" height="300">
 <br>
 <br>
 <br>
 
-<img src="2.png" width="800" height="100">
+<img src="mistake/2.png" width="800" height="100">
 <br>
 <br>
 <br>
 
 
 
-<img src="3.png" width="800" height="100">
+<img src="mistake/3.png" width="800" height="100">
 
 
 </body>
